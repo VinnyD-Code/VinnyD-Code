@@ -1,6 +1,6 @@
 ### 👋 Hi! Nice to meet you!
 
-```
+```java
 public class Me {
   public Me() {
     name = "Vincent Dinh"

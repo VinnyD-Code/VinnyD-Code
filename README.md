@@ -3,9 +3,9 @@
 ```java
 public class Me {
   public Me() {
-    name = "Vincent Dinh"
-    description = "Student at Baylor University studying Computer Science"
-    Languages = {"Java", "C++", "Python", "HTML", "CSS", "JavaScript"}
+    String name = "Vincent Dinh";
+    String description = "Student at Baylor University studying Computer Science";
+    String[] languages = {"Java", "C++", "Python", "HTML", "CSS", "JavaScript"};
   }
 }
 ```

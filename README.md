@@ -11,7 +11,6 @@ public class Me {
 ```
 
 ### Tech Stack
-<br>
 <hr style="height:0.5px; border:none; color:#333; background-color:#333;">
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-purple)](https://isocpp.org/)

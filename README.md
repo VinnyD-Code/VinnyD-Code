@@ -25,8 +25,9 @@ public class Me {
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28" width="80" style="display: inline-block; vertical-align: middle; background-color: #38B2AC; color: white;"></a>
    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28" width="80" style="display: inline-block; vertical-align: middle; background-color: black; color: white;"></a>
  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="28" width="80" style="display: inline-block; vertical-align: middle; background-color: #4EA94B; color: white;"></a>
-    <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Apache_Maven-white?style=for-the-badge&logo=apache-maven&logoColor=C71A36" alt="Apache Maven" style="display: inline-block; vertical-align: middle;"></a>
-    <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-white?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX" style="display: inline-block; vertical-align: middle;"></a>
+   <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Apache Maven" height="28" width="80" style="display: inline-block; vertical-align: middle; background-color: #C71A36; color: white;"></a>
+<a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" height="28" width="80" style="display: inline-block; vertical-align: middle; background-color: #000000; color: white;"></a>
+
 </div>
 
 

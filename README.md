@@ -10,8 +10,7 @@ public class Me {
 }
 ```
 
-<img src="https://github.com/VinnyD-Code/VinnyD-Code/blob/main/icons8-laptop-96.png" alt="Laptop Icon" style="width: 40px; height: 40px; margin-right: 10px; float: left;">
- ## Tech Stack
+💻 ## Tech Stack
 
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-purple)](https://isocpp.org/)

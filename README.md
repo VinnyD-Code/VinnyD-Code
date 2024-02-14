@@ -10,4 +10,12 @@ public class Me {
 }
 ```
 
+### Tech Stack
+---
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C++-purple)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-yellow)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-blueviolet)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-blue)](https://reactjs.org/)

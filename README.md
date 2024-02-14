@@ -10,7 +10,7 @@ public class Me {
 }
 ```
 
-💻 ## Tech Stack
+<span style="font-size: 40px;">💻</span> ## Tech Stack
 
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-purple)](https://isocpp.org/)

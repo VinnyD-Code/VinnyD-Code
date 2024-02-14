@@ -10,7 +10,8 @@ public class Me {
 }
 ```
 
-<img src="[https://img.icons8.com/ios/50/000000/laptop.png](https://banner2.cleanpng.com/20231227/ity/transparent-laptop-laptop-computer-black-screen-white-keyboard-minimalistic-style-drawing-of-laptop-on-black-back658bb2f5d685b7.3441607317036541338787.jpg)" alt="Laptop Icon" style="width: 40px; height: 40px; margin-right: 10px; float: left;"> ## Tech Stack
+<img src="https://banner2.cleanpng.com/20231227/ity/transparent-laptop-laptop-computer-black-screen-white-keyboard-minimalistic-style-drawing-of-laptop-on-black-back658bb2f5d685b7.3441607317036541338787.jpg" alt="Laptop Icon" style="width: 40px; height: 40px; margin-right: 10px; float: left;"> ## Tech Stack
+
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-purple)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-yellow)](https://www.python.org/)

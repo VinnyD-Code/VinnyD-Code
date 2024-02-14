@@ -13,11 +13,11 @@ public class Me {
 ## 💻 Tech Stack
 
 <div>
-    <img src="https://img.shields.io/badge/Java-blue" alt="Java" height="36" width="72" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/C++-purple" alt="C++" height="36" width="72" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Python-yellow" alt="Python" height="36" width="72" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/HTML-orange" alt="HTML" height="36" width="72" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/CSS-blueviolet" alt="CSS" height="36" width="72" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript" height="36" width="72" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/React-blue" alt="React" height="36" width="72" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Java-blue" alt="Java" height="24" width="60" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/C++-purple" alt="C++" height="24" width="60" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Python-yellow" alt="Python" height="24" width="60" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/HTML-orange" alt="HTML" height="24" width="60" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/CSS-blueviolet" alt="CSS" height="24" width="60" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript" height="24" width="60" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/React-blue" alt="React" height="24" width="60" style="display: inline-block;">
 </div>

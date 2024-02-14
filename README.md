@@ -10,11 +10,7 @@ public class Me {
 }
 ```
 
-<div style="display: flex; align-items: center;">
-    <img src="https://img.icons8.com/officel/50/000000/laptop.png" alt="Laptop Icon" style="width: 20px; height: 20px; margin-right: 10px;">
-    <span style="font-size: 20px; font-weight: bold;">Tech Stack</span>
-</div>
-<hr style="height:0.5px; border:none; color:#333; background-color:#333;">
+## Tech Stack <img src="https://img.icons8.com/officel/50/000000/laptop.png" alt="Laptop Icon" style="width: 20px; height: 20px; margin-left: 10px;">
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-purple)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-yellow)](https://www.python.org/)
